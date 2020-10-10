@@ -33,7 +33,7 @@ def is_vowel(letter):
         return True
     return False
 
-#You can obviously print inside the function, but i personally like to keep the code "print-free"
+#You can obviously print these inside the function, but i personally like to keep the code "print-free"
 print(cesar_vowels("pEsta cadena esta sin codificar")) # --> 12
 print(cesar_vowels("pfin"))                            # --> 1
 print(cesar_vowels("qbfjpvBFJPV"))                     # --> 10
