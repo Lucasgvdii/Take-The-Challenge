@@ -33,7 +33,7 @@ def kaprekar_rutine(number):
     
     return 1 + kaprekar_rutine(kaprekar_result)
     
-#You can obviously print inside the function, but i personally like to keep the code "print-free"
+#You can obviously print these inside the function, but i personally like to keep the code "print-free"
 print(kaprekar_cycles(3524)) #--> 3
 print(kaprekar_cycles(1111)) #--> 8
 print(kaprekar_cycles(1121)) #--> 5
