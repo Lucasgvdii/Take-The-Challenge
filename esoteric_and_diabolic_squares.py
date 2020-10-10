@@ -77,7 +77,6 @@ def middle_addition(numbers,lateral_size):
         print(result)
         result=result+numbers[(lateral_size//2-1)*lateral_size+lateral_size//2-1]
         return result
-    
     return result*4
 
 def middle_line_addition(numbers,lateral_size):    
