@@ -2,7 +2,6 @@
 
 #Main function
 def is_equitative(grade,polynomial,n_rectangles):
-
     cain_area=0
     rectangle_base_size=1/n_rectangles
 
@@ -12,7 +11,7 @@ def is_equitative(grade,polynomial,n_rectangles):
         
         for i in range(len(polynomial)):
             fx=fx+pow(x*rectangle_base_size,grade-i)*polynomial[i]
-            
+
         if fx>0:
             rectangle_x_area=min(fx,1)*rectangle_base_size
             
