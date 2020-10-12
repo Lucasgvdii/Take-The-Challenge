@@ -1,4 +1,4 @@
-#The function inheritance problem. Link to the explanation of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=103&cat=53
+#The function inheritance problem. Link to the explanation and heading of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=103&cat=53
 
 #Main function
 def is_equitative(grade,polynomial,n_rectangles):
