@@ -1,4 +1,4 @@
-#The code bar problem. Link to the explanation of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=106
+#The code bar problem. Link to the explanation and heading of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=106
 
 #Main function
 def code_bar_checker(codebar):
