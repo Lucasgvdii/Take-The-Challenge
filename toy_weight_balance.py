@@ -1,4 +1,4 @@
-#The toy weight balance problem. Link to the explanation of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=104
+#The toy weight balance problem. Link to the explanation and heading of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=104
 
 #Main function
 def is_toy_balanced(child_toy):
