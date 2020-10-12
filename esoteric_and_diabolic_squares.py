@@ -1,4 +1,4 @@
-#Esoteric and diabolic squares. Link to the explanation of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=101&cat=53 
+#Esoteric and diabolic squares. Link to the explanation and heading of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=101&cat=53 
 
 #Main function
 def kaprekar_cycles(numbers,lateral_size):
