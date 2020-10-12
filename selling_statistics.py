@@ -1,4 +1,4 @@
-#The selling statistisc problem. Link to the explanation of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=105
+#The selling statistisc problem. Link to the explanation and heading of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=105
 
 #Main function
 def statistics_viewer(weeks):
