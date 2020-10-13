@@ -33,8 +33,7 @@ def daily_sales_statistics(daily_sales_list):
     if avg_sales<lunch_sale:
         statistics=statistics+"Yes"
     else:
-        statistics=statistics+"No"
-            
+        statistics=statistics+"No"  
     return statistics
                 
 def get_day(day):
