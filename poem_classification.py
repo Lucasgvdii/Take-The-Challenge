@@ -120,7 +120,12 @@ def get_tables(rymes):
               
 #You can obviously print these inside the function"," but i personally like to keep the code "print-free"
 print(classify_poem(["Historial ayer borrado","anteayer hubo pecado"]))
+# --> Pareado
 print(classify_poem(["Esto no pega","ni con cola."]))
+# --> Unknown
 print(classify_poem(["Era un simple clerigo, pobre de clerecia,","dicie cutiano missa de la sancta Maria;","non sabie decir otra, diciela cada dia,","mas la sabie por uso qe por sabiduria."]))
+# --> Cuaderna Via
 print(classify_poem(["Un manotazo duro, un golpe helado,","un hachazo invisible y homicida,","un empujon brutal te ha derribado."]))
+# --> Terceto
 print(classify_poem(["Era un simple clerigo, pobre de clerecie,","dicie cutiano missa de la sancta Marina;","non sabie decir otra, diciela cada diri,","mas la sabie por uso qe por sabiduria."]))
+# --> Seguidilla
