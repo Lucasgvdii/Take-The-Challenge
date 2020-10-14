@@ -10,6 +10,6 @@ As almost always happens when programming, I do not assure you that these are th
 
 The problems will be solved in Python, since I don't think the owners of the original web page (which allows users to send their solutions) would like to have already made solutions for their challenges in the languages they accept: C, C ++ and Java.
 
-**PS:** As most problems are not very complex or abstract, I will not include descriptions of the functions. However, I will include in each one a link to the original problem, where you can see the header of the problem and its explanation, which should help you understand what each function does.
+**PS:** As most problems are not very complex or abstract, I will not include descriptions of the functions (except in certain cases where i think tracing the code could be harder to those lees experienced). However, I will include in each one a link to the original problem, where you can see the header of the problem and its explanation, which should help you understand what each function does.
 
 Welcome aboard!
