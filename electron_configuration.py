@@ -14,7 +14,7 @@ def electron_configuration(name,element_num):
             break
     return cadena
            
-#You can obviously print these inside the function"," but i personally like to keep the code "print-free"
+#You can obviously print these inside the function, but i personally like to keep the code "print-free"
 print(electron_configuration("cloro",17))
 print(electron_configuration("calcio",20))
 print(electron_configuration("rubidio",37))
