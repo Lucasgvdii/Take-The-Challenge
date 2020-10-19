@@ -13,10 +13,10 @@ def highway_speed_regulation(distance,max_speed,seconds):
     return "PERMIT POINTS"
            
 #You can obviously print these inside the function, but i personally like to keep the code "print-free"
-print(highway_speed_regulation(9165,110,300))
-print(highway_speed_regulation(9165,110,299))
-print(highway_speed_regulation(12000,100,433))
-print(highway_speed_regulation(12000,100,431))
-print(highway_speed_regulation(12000,100,359))
-print(highway_speed_regulation(-1000,-50,-100))
+print(highway_speed_regulation(9165,110,300))   # --> OK
+print(highway_speed_regulation(9165,110,299))   # --> FEE
+print(highway_speed_regulation(12000,100,433))  # --> OK
+print(highway_speed_regulation(12000,100,431))  # --> FEE
+print(highway_speed_regulation(12000,100,359))  # --> PERMIT POINTS
+print(highway_speed_regulation(-1000,-50,-100)) # --> ERROR
 
