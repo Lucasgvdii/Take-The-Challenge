@@ -12,7 +12,7 @@ def highway_speed_regulation(distance,max_speed,seconds):
         return "FEE"
     return "PERMIT POINTS"
            
-#You can obviously print these inside the function"," but i personally like to keep the code "print-free"
+#You can obviously print these inside the function, but i personally like to keep the code "print-free"
 print(highway_speed_regulation(9165,110,300))
 print(highway_speed_regulation(9165,110,299))
 print(highway_speed_regulation(12000,100,433))
