@@ -15,7 +15,7 @@ def electron_configuration(name,element_num):
     return cadena
            
 #You can obviously print these inside the function, but i personally like to keep the code "print-free"
-print(electron_configuration("cloro",17))
-print(electron_configuration("calcio",20))
-print(electron_configuration("rubidio",37))
-print(electron_configuration("hierro",26))
+print(electron_configuration("cloro",17))   # --> 1s2 2s2 2p6 3s2 3p5
+print(electron_configuration("calcio",20))  # --> 1s2 2s2 2p6 3s2 3p6 4s2
+print(electron_configuration("rubidio",37)) # --> 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1
+print(electron_configuration("hierro",26))  # --> 1s2 2s2 2p6 3s2 3p6 4s2 3d6
