@@ -8,7 +8,7 @@ In this repository you will find certain solutions that I have come up with to s
 Feel free to ask any questions about them or, given the case, to send me your own solutions!
 As almost always happens when programming, I do not assure you that these are the best solutions to the problems raised, but I hope they'll be useful to those who are curious!
 
-The problems will be solved in Python, since I don't think the owners of the original web page (which allows users to send their solutions) would like to have already made solutions for their challenges in the languages they accept: C, C ++ and Java.
+The problems will be solved in Python, since I don't think the owners of the original web page (which allows users to send their solutions) would like to have already made solutions for their challenges in the languages they accept: Java, C, and C++.
 
 **PS:** As most problems are not very complex or abstract, I will not include descriptions of the functions (except in certain cases where i think tracing the code could be harder to those less experienced). However, I will include in each one a link to the original problem, where you can see the header of the problem and its explanation. This should help you understand what each function does. The web is in Spanish, but the last time I checked, google web translator worked perfectly on it.
 
