@@ -1,4 +1,4 @@
-#The kaprekar problem. Link to the explanation and heading of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=100&cat=53
+#The kaprekar problem. Link to the explanation and heading of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=100
 
 #Main function
 def kaprekar_cycles(number):
