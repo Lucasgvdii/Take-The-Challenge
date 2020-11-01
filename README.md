@@ -18,10 +18,10 @@ Welcome aboard!
 
 | Problems from 100 to 124 | Problems from 125 to 149 | Problems from 150 to 174 | Problems from 175 to 199 |
 | -- | -- | -- | -- |
-| 100. [Kaprekar Cycles](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/kaprekar_cycles.py) ||||
-| 101. [Esoteric & Diabolic Squares](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/esoteric_and_diabolic_squares.py) ||||
-| 102. [Cesar Encryption Vowels](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/cesar_encryption_vowels.py) ||||
-| 103. [Inheritance function](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/function_inheritance.py) ||||
+| 100. [Kaprekar Cycles](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/kaprekar_cycles.py) | 125. [Vampire Numbers](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/vampire_numbers.py) |||
+| 101. [Esoteric & Diabolic Squares](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/esoteric_and_diabolic_squares.py) | 126. [Factorial Prime Divisors](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/factorial_prime_divisors.py) |||
+| 102. [Cesar Encryption Vowels](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/cesar_encryption_vowels.py) | 127. [Hostel Beds Problem](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/hostel_beds_problem.py) |||
+| 103. [Inheritance function](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/function_inheritance.py) | 128. [Umbrella Building Materials](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/umbrella_building_materials.py) |||
 | 104. [Toy Weight Balance](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/toy_weight_balance.py) ||||
 | 105. [Selling Statistics](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/selling_statistics.py) ||||
 | 106. [Code Bar Checker](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/code_bar_checker.py) ||||
@@ -43,7 +43,3 @@ Welcome aboard!
 | 122. [Race provisioning](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/race_provisioning.py) ||||
 | 123. [Spanish Verbs Conjugator](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/spanish_verb_conjugator.py) ||||
 | 124. [Sum Carries Counter](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/sum_carries_counter.py) ||||
-| 125. [Vampire Numbers](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/vampire_numbers.py) ||||
-| 126. [Factorial Prime Divisors](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/factorial_prime_divisors.py) ||||
-| 127. [Hostel Beds Problem](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/hostel_beds_problem.py) ||||
-| 128. [Umbrella Building Materials](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/umbrella_building_materials.py) ||||
