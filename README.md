@@ -19,20 +19,20 @@ Welcome aboard!
 | Problems from 100 to 132 | Problems from 133 to 165 | Problems from 166 to 198 |
 | -- | -- | -- |
 | 100. [Kaprekar Cycles](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/kaprekar_cycles.py) |||
-| 101. [Esoteric and Diabolic Squares](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/esoteric_and_diabolic_squares.py) |||
+| 101. [Esoteric & Diabolic Squares](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/esoteric_and_diabolic_squares.py) |||
 | 102. [Cesar Encryption Vowels](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/cesar_encryption_vowels.py) |||
 | 103. [Inheritance function](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/function_inheritance.py) |||
 | 104. [Toy Weight Balance](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/toy_weight_balance.py) |||
 | 105. [Selling Statistics](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/selling_statistics.py) |||
 | 106. [Code Bar Checker](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/code_bar_checker.py) |||
-| 107. [Prime Numbers Counting Error](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/prime_numbers_count_error.py) |||
+| 107. [Prime Nums Counting Error](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/prime_numbers_count_error.py) |||
 | 108. [Daily Sales Statistics](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/daily_sales_statistics.py) |||
 | 109. [Padel League Winner](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/padel_league_winner.py) |||
 | 110. [Poem Classification](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/poem_classification.py) |||
 | 111. [Electron Configuration](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/electron_configuration.py) |||
 | 112. [Speed Radar](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/speed_radar.py) |||
 | 113. [Semaphore Road](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/semaphore_road.py) |||
-| 114. [Factorial Number's Last Digit](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/factorial_num_last_digit.py) |||
+| 114. [Factorial Nums' Last Digit](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/factorial_num_last_digit.py) |||
 | 115. [Kaprekar Numbers](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/kaprekar_numbers.py) |||
 | 116. [Hello World Spammer](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/hello_world_spammer.py) |||
 | 117. [Automatic Party Answerer](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/automatic_party_answerer.py) |||
