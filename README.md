@@ -10,9 +10,11 @@ As almost always happens when programming, I do not assure you that these are th
 
 The problems will be solved in Python, since I don't think the owners of the original web page (which allows users to send their solutions) would like to have already made solutions for their challenges in the languages they accept: Java, C, and C++.
 
-**PS:** As most problems are not very complex or abstract, I will not include descriptions of the functions (except in certain cases where i think tracing the code could be harder to those less experienced). However, I will include in each one a link to the original problem, where you can see the header of the problem and its explanation. This should help you understand what each function does. The web is in Spanish, but the last time I checked, google web translator worked perfectly on it.
+As most problems are not very complex or abstract, I will not include descriptions of the functions (except in certain cases where i think tracing the code could be harder to those less experienced). However, I will include in each one a link to the original problem, where you can see the header of the problem and its explanation. This should help you understand what each function does. The web is in Spanish, but the last time I checked, google web translator worked perfectly on it. 
 
-Welcome aboard!
+**PS:** If you look for problems on the web to see the headers, use the index numbers to see which ones they correspond to, since the names are not the same.
+
+**PS/PS:** I have decided to change the input of the problems so that it is simpler to execute them and that the console is not necessary as indicated on the web
 
 **Problem Index:**
 
