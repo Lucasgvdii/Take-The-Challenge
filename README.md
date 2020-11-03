@@ -25,7 +25,7 @@ As most problems are not very complex or abstract, I will not include descriptio
 | 102. [Cesar Encryption Vowels](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/cesar_encryption_vowels.py) | 127. [Hostel Beds Problem](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/hostel_beds_problem.py) |||
 | 103. [Inheritance function](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/function_inheritance.py) | 128. [Umbrella Building Materials](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/umbrella_building_materials.py) |||
 | 104. [Toy Weight Balance](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/toy_weight_balance.py) |  129. [Display Panel Swaps](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/display_panel_swaps.py) |||
-| 105. [Selling Statistics](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/selling_statistics.py) ||||
+| 105. [Selling Statistics](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/selling_statistics.py) | 130. [Diagonal Deplacement Obsession](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/diagonal_deplacement_obsession.py) |||
 | 106. [Code Bar Checker](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/code_bar_checker.py) ||||
 | 107. [Prime Nums Counting Error](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/prime_numbers_count_error.py) ||||
 | 108. [Daily Sales Statistics](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/daily_sales_statistics.py) |||||
