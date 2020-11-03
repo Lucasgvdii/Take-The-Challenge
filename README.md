@@ -12,9 +12,7 @@ The problems will be solved in Python, since I don't think the owners of the ori
 
 As most problems are not very complex or abstract, I will not include descriptions of the functions (except in certain cases where i think tracing the code could be harder to those less experienced). However, I will include in each one a link to the original problem, where you can see the header of the problem and its explanation. This should help you understand what each function does. The web is in Spanish, but the last time I checked, google web translator worked perfectly on it. 
 
-**PS:** If you look for problems on the web to see the headers, use the index numbers to see which ones they correspond to, since the names are not the same.
-
-**PS/PS:** I have decided to change the input of the problems so that it is simpler to execute them and that the console is not necessary as indicated on the web
+**PS:** If you look for the problems on the web, use the index numbers to see which ones they correspond to, since the names are not the same.
 
 **Problem Index:**
 
