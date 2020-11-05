@@ -18,7 +18,7 @@ As most problems are not very complex or abstract, I will not include descriptio
 
 | Problems from 100 to 124 | Problems from 125 to 149 | Problems from 150 to 174 | Problems from 175 to 199 |
 | -- | -- | -- | -- |
-| 100. [Kaprekar Cycles](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/kaprekar_cycles.py) | 125. [Vampire Numbers](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/vampire_numbers.py) |||
+| 100. [Kaprekar Cycles](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/kaprekar_cycles.py) | 125. [Vampire Numbers](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/vampire_numbers.py) | 150. [Hexagon Drawings] | 175. [Maite's Pills Callendar] |
 | 101. [Esoteric & Diabolic Squares](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/esoteric_and_diabolic_squares.py) | 126. [Factorial Prime Divisors](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/factorial_prime_divisors.py) |||
 | 102. [Cesar Encryption Vowels](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/cesar_encryption_vowels.py) | 127. [Hostel Beds Problem](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/hostel_beds_problem.py) |||
 | 103. [Inheritance function](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/function_inheritance.py) | 128. [Umbrella Building Materials](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/umbrella_building_materials.py) |||
