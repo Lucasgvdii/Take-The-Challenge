@@ -25,7 +25,7 @@ As most problems are not very complex or abstract, I will not include descriptio
 | 104. [Toy Weight Balance](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/toy_weight_balance.py) |  129. [Display Panel Swaps](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/display_panel_swaps.py) |||
 | 105. [Selling Statistics](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/selling_statistics.py) | 130. [Diagonal Deplacement Obsession](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/diagonal_deplacement_obsession.py) |||
 | 106. [Code Bar Checker](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/code_bar_checker.py) | 131. [Broken Pool Race](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/broken_pool_race.py) |||
-| 107. [Prime Nums Counting Error](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/prime_numbers_count_error.py) ||||
+| 107. [Prime Nums Counting Error](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/prime_numbers_count_error.py) | 123. [Grandpa's Letters](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/grandpas_letters.py) |||
 | 108. [Daily Sales Statistics](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/daily_sales_statistics.py) |||||
 | 109. [Padel League Winner](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/padel_league_winner.py) ||||
 | 110. [Poem Classification](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/poem_classification.py) ||||
