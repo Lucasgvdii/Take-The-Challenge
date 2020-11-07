@@ -1,5 +1,3 @@
-![Imagen3](https://user-images.githubusercontent.com/72617878/98448687-1df8f800-212e-11eb-97d6-6a42484537af.jpg)
-
 # Embrace-the-challenge (Acepta el reto!)
 
 **Official website: https://www.aceptaelreto.com/**
