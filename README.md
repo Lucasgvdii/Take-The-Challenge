@@ -1,4 +1,4 @@
-![Imagen2](https://user-images.githubusercontent.com/72617878/98447820-22baad80-2128-11eb-940c-8db88f0876a8.jpg)
+![Imagen3](https://user-images.githubusercontent.com/72617878/98447899-c99f4980-2128-11eb-9072-fcdfafa25f1d.jpg)
 
 # Embrace-the-challenge (Acepta el reto!)
 
