@@ -1,4 +1,4 @@
-#The grandpa's letters problem. Link to the explanation and heading of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=131
+#The grandpa's letters problem. Link to the explanation and heading of the problem --> https://www.aceptaelreto.com/problem/statement.php?id=132
 
 #Main function
 def are_repeated_characters(text,pos1,pos2):
