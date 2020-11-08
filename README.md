@@ -26,7 +26,7 @@ As most problems are not very complex or abstract, I will not include descriptio
 | 107. [Prime Nums Counting Error](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/prime_numbers_count_error.py) | 132. [Grandpa's Letters](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/grandpas_letters.py) |||
 | 108. [Daily Sales Statistics](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/daily_sales_statistics.py) | 133. [Operation Error Detector](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/operation_error_detector.py) |||
 | 109. [Padel League Winner](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/padel_league_winner.py) | 134. [Straight Flush Missing Card](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/straight_flush_missing_card.py) |||
-| 110. [Poem Classification](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/poem_classification.py) ||||
+| 110. [Poem Classification](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/poem_classification.py) | 135. [Succession change detector](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/succession_change_detector.py) |||
 | 111. [Electron Configuration](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/electron_configuration.py) ||||
 | 112. [Speed Radar](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/speed_radar.py) ||||
 | 113. [Semaphore Road](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/semaphore_road.py) ||||
