@@ -29,7 +29,7 @@ As most problems are not very complex or abstract, I will not include descriptio
 | 110. [Poem Classification](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/poem_classification.py) | 135. [Succession change detector](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/succession_change_detector.py) |||
 | 111. [Electron Configuration](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/electron_configuration.py) | 136. [Hobbits Chain Splitter](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/hobbits_chain_splitter.py) |||
 | 112. [Speed Radar](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/speed_radar.py) | 137. [Sink The Float Checker](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/sink_the_float_checker.py) |||
-| 113. [Semaphore Road](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/semaphore_road.py) ||||
+| 113. [Semaphore Road](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/semaphore_road.py) | 138. [Factorial's zeros](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/zeros_in_factorial.py) |||
 | 114. [Factorial Nums' Last Digit](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/factorial_num_last_digit.py) ||||
 | 115. [Kaprekar Numbers](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/kaprekar_numbers.py) ||||
 | 116. [Hello World Spammer](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/hello_world_spammer.py) ||||
