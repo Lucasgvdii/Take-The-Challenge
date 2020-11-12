@@ -6,7 +6,7 @@
 
 **Official website: https://www.aceptaelreto.com/**
 
-In this repository you will find certain solutions that I have come up with to solve some of the problems posed by the "Accept the challenge" website.
+In this repository you will find certain solutions I have come up with to solve some of the problems posed by the "Accept the challenge" website.
 Feel free to ask any questions about them or, given the case, to send me your own solutions!
 As almost always happens when programming, I do not assure you that these are the best solutions to the problems raised, but I hope they'll be useful to those who are curious!
 
