@@ -18,7 +18,7 @@ As most problems are not very complex or abstract, I will not include descriptio
 
 ![images](https://user-images.githubusercontent.com/72617878/98919044-aa107400-24ce-11eb-8b21-0383423d904a.png)
 
-**Problem Index:**
+### Problem Index:
 
 | Problems from 100 to 124 | Problems from 125 to 149 | Problems from 150 to 174 | Problems from 175 to 199 |
 | -- | -- | -- | -- |
