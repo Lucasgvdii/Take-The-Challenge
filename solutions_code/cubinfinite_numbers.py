@@ -8,7 +8,7 @@ def is_cubinfinite(num):
     
     while result not in path and result!="1":
         path.append(result)
-        result=get_pow3_digit_adittion(result)
+        result=get_pow3_digit_addition(result)
 
     string=""
     for i in path:
@@ -18,7 +18,7 @@ def is_cubinfinite(num):
         return string+" 1 -> Cubinfinite"
     return string+" "+result+" -> Not cubinfinite"
 
-def get_pow3_digit_adittion(num):
+def get_pow3_digit_addition(num):
     result=0
     for i in num:
         result=result+pow(int(i),3)
