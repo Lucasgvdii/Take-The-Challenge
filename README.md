@@ -38,7 +38,7 @@ As most problems are not very complex or abstract, I will not include descriptio
 | 113. [Semaphore Road](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/semaphore_road.py) | 138. [Factorial's zeros](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/zeros_in_factorial.py) |||
 | 114. [Factorial Nums' Last Digit](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/factorial_num_last_digit.py) | 139. [Cubinfinite numbers](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/cubinfinite_numbers.py) |||
 | 115. [Kaprekar Numbers](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/kaprekar_numbers.py) | 140. [Digits Addition Path](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/digits_addition_path.py) |||
-| 116. [Hello World Spammer](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/hello_world_spammer.py) ||||
+| 116. [Hello World Spammer](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/hello_world_spammer.py) | 141. [Parentheses Balancing](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/parentheses_balancing.py) |||
 | 117. [Automatic Party Answerer](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/automatic_party_answerer.py) ||||
 | 118. [Recipe Bets](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/recipe_bets.py) ||||
 | 119. [Romal Army Shields](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/roman_army_shields.py) ||||
