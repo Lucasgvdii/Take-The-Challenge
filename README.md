@@ -40,7 +40,7 @@ As most problems are not very complex or abstract, I will not include descriptio
 | 115. [Kaprekar Numbers](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/kaprekar_numbers.py) | 140. [Digits Addition Path](https://github.com/Lucasgvdii/Accept-The-Challenge/blob/main/solutions_code/digits_addition_path.py) |||
 | 116. [Hello World Spammer](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/hello_world_spammer.py) | 141. [Parentheses Balancing](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/parentheses_balancing.py) |||
 | 117. [Automatic Party Answerer](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/automatic_party_answerer.py) | 142. [Hide And Seek Catcher Selection](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/hide_and_seek_catcher_selection.py) |||
-| 118. [Recipe Bets](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/recipe_bets.py) ||||
+| 118. [Recipe Bets](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/recipe_bets.py) | 143. [Cold Pancakes Flipping](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/cold_pancakes_flipping.py) |||
 | 119. [Romal Army Shields](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/roman_army_shields.py) ||||
 | 120. [Magic Square Constant](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/magic_square_constant.py) ||||
 | 121. [Gum Offer](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/gum_offer.py) ||||
