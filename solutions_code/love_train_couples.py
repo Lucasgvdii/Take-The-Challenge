@@ -3,7 +3,7 @@
 #Main function
 def love_train_couples(train):
     
-    train=str2mat(train)
+    train=str2list(train)
     train_check=[]
     total=0
     while train_check!=train:
@@ -34,7 +34,7 @@ def love_train_couples(train):
         total=total+len(couples)/2
     return total
                             
-def str2mat(string):
+def str2list(string):
     mat=[]
     for i in string:
         mat.append(i)
