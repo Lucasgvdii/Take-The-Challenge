@@ -43,7 +43,7 @@ As most problems are not very complex or abstract, I will not include descriptio
 | 118. [Recipe Bets](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/recipe_bets.py) | 143. [Cold Pancakes Flipping](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/cold_pancakes_flipping.py) |||
 | 119. [Romal Army Shields](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/roman_army_shields.py) | 144. [Broken Keyboard](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/broken_keyboard.py) |||
 | 120. [Magic Square Constant](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/magic_square_constant.py) | 145. [Love Train Couples](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/love_train_couples.py) |||
-| 121. [Gum Offer](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/gum_offer.py) ||||
+| 121. [Gum Offer](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/gum_offer.py) | 164. [Lucky Numbers](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/lucky_numbers.py) |||
 | 122. [Race provisioning](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/race_provisioning.py) ||||
 | 123. [Spanish Verbs Conjugator](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/spanish_verb_conjugator.py) ||||
 | 124. [Sum Carries Counter](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/sum_carries_counter.py) ||||
