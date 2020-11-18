@@ -20,11 +20,11 @@ def get_final_string(input_string):
         else:
             output_string.insert(pos,i)
             pos=pos+1
-    return arr2str(output_string)
+    return list2str(output_string)
 
-def arr2str(array):
+def list2str(klist):
     string=""
-    for i in array:
+    for i in klist:
         string=string+i
     return string
     
