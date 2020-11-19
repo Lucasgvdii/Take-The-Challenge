@@ -46,7 +46,7 @@ As most problems are not very complex or abstract, I will not include descriptio
 | 121. [Gum Offer](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/gum_offer.py) | 146. [Lucky Numbers](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/lucky_numbers.py) |||
 | 122. [Race provisioning](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/race_provisioning.py) | 147. [Light matches game](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/light_matches_game.py) |||
 | 123. [Spanish Verbs Conjugator](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/spanish_verb_conjugator.py) | 148. [New Years Eve](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/new_years_eve.py) |||
-| 124. [Sum Carries Counter](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/sum_carries_counter.py) ||||
+| 124. [Sum Carries Counter](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/sum_carries_counter.py) | 149. [San Fermines Bulls](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/san_fermines_bulls.py) |||
 
 ![images](https://user-images.githubusercontent.com/72617878/98919044-aa107400-24ce-11eb-8b21-0383423d904a.png)
 
