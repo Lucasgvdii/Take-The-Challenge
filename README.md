@@ -1,10 +1,5 @@
-
-![images](https://user-images.githubusercontent.com/72617878/98919044-aa107400-24ce-11eb-8b21-0383423d904a.png)
 # Take-the-challenge (Acepta el reto!)
-![images](https://user-images.githubusercontent.com/72617878/98919044-aa107400-24ce-11eb-8b21-0383423d904a.png)
 
-
-**Official website: https://www.aceptaelreto.com/**
 
 In this repository you will find certain solutions I have come up with to solve some of the problems posed by the "Accept the challenge" website.
 Feel free to ask any questions about them or, given the case, to send me your own solutions!
@@ -16,7 +11,7 @@ As most problems are not very complex or abstract, I will not include descriptio
 
 **PS:** If you look for the problems on the web, use the index numbers to see which ones they correspond to, since the names are not the same.
 
-![images](https://user-images.githubusercontent.com/72617878/98919044-aa107400-24ce-11eb-8b21-0383423d904a.png)
+**Official website: https://www.aceptaelreto.com/**
 
 ### Problem Index:
 
@@ -47,6 +42,4 @@ As most problems are not very complex or abstract, I will not include descriptio
 | 122. [Race provisioning](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/race_provisioning.py) | 147. [Light matches game](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/light_matches_game.py) |||
 | 123. [Spanish Verbs Conjugator](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/spanish_verb_conjugator.py) | 148. [New Years Eve](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/new_years_eve.py) |||
 | 124. [Sum Carries Counter](https://github.com/Lucasgvdii/accept-the-challenge/blob/main/solutions_code/sum_carries_counter.py) | 149. [San Fermines Bulls](https://github.com/Lucasgvdii/Take-The-Challenge/blob/main/solutions_code/san_fermines_bulls.py) |||
-
-![images](https://user-images.githubusercontent.com/72617878/98919044-aa107400-24ce-11eb-8b21-0383423d904a.png)
 
